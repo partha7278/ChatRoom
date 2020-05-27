@@ -1,0 +1,4 @@
+{
+    "db":"mongodb://localhost/chatroom",
+    "clientUrl":"http://localhost:3000"
+}

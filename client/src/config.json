@@ -1,0 +1,5 @@
+{
+    "serverUrl": "http://localhost:5000",
+    "useSentry": "0",
+    "sentryUrl": "https://a5fefa8c93d84536acd4dadaeba3b57b@o394552.ingest.sentry.io/5244817"
+}
